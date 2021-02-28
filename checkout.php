@@ -112,7 +112,7 @@ function test_input($data) {
 				<div class="tm-header">
 					<div class="row tm-header-inner">
 						<div class="col-md-6 col-12">
-							<img src="img/simple-house-logo.png" alt="Logo" class="tm-site-logo" /> 
+							<img src="img/simple-books-logo.png" alt="Logo" class="tm-site-logo" /> 
 							<div class="tm-site-text-box">
 								<h1 class="tm-site-title">Simple Books</h1>
 								<h6 class="tm-site-description">feel difference everyday</h6>
