@@ -144,6 +144,8 @@ function test_input($data) {
                             echo "Author: <strong>".$el['author']."</strong><br/>";
                             echo "Price: <strong>$".number_format($el['unit_price'], 2)."</strong><br/>";
                             echo "In Stock: <strong>".$el['quantity']."</strong><br/>";
+                        } else {
+                            echo "Sorry! We can not find the book you ordered!";
                         }
                 
                     ?>
